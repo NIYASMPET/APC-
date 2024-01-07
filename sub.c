@@ -1,10 +1,4 @@
-/*
-NAME           :NIYASKHAN M
-DATE           :/ /2023
-DESCDRIPTION   :
-INPUT          :
-OUTPUT         :
-*/
+
 
 #include"main.h"
 
